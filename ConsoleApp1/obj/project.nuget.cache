@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sxs00m7z2cRt8VDIV7rC4djfHpFqZYeKXLqsEnsKwWco0/KaR53W66foxbIqndDC29KFF2+hCuOf6wmATLerqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moshe\\Desktop\\moshe\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moshe\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
